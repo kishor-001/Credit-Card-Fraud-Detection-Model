@@ -250,7 +250,7 @@ credit-card-fraud-detection/
 - **Jupyter Notebook (Google Colab):** [Open in Colab](https://colab.research.google.com/drive/1nsPRlCud5S9YEeohvYUzHNGJf-2CSYHp?usp=sharing)
 - **Dataset:** [Credit Card Fraud Detection - Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - **Kaggle Notebook:** [View on Kaggle](https://www.kaggle.com/code/payaryan/fraud-detection-analysis)
-- **GitHub Repository:** [Source Code](https://github.com/itsaryanchauhan/credit-card-fraud-detection)
+
 
 ## Results & Outputs
 
